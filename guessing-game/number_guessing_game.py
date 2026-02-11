@@ -31,7 +31,7 @@ def Guess_game(number):
 
     if (result):   
         print(f"Congratulations, The correct Number Is {number}. You Gussed it Correctly")
-    else:]
+    else:
         print(f"You have completed {no_guesses} Guesses, Try again.")
 
 def main():
